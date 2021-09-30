@@ -29,6 +29,8 @@ shown in the camera and detects the position of the fingers. The libraries used 
 The position of the located fingers in then using by the file VolumeHandController which selects the position of only thumb and index finger. The function of changing the volume of the system done by this file according to the selected positions of index finger and thumb. It uses the library pycaw which is a Python Core Audio Windows Library, it helps to set the range of volume based on the range of the distance between the two fingers. comtypes which is used to implement both custom and dispatch based COM interfaces.
 
 OUTPUT:
+
+
 ![image](https://user-images.githubusercontent.com/58439134/135482161-48e2846f-019e-45f3-8299-2a95c55115cc.png)
 
 ![image](https://user-images.githubusercontent.com/58439134/135482201-aaf6ff23-6f57-4187-aa08-9134a38449dd.png)
